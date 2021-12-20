@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ARTURIRK/Dish-recipes.git/static/css/main.7e1ebad1.chunk.css",
+    "main.js": "/ARTURIRK/Dish-recipes.git/static/js/main.91f0fb3e.chunk.js",
+    "main.js.map": "/ARTURIRK/Dish-recipes.git/static/js/main.91f0fb3e.chunk.js.map",
+    "runtime-main.js": "/ARTURIRK/Dish-recipes.git/static/js/runtime-main.28d2aeaf.js",
+    "runtime-main.js.map": "/ARTURIRK/Dish-recipes.git/static/js/runtime-main.28d2aeaf.js.map",
+    "static/js/2.07ea42a7.chunk.js": "/ARTURIRK/Dish-recipes.git/static/js/2.07ea42a7.chunk.js",
+    "static/js/2.07ea42a7.chunk.js.map": "/ARTURIRK/Dish-recipes.git/static/js/2.07ea42a7.chunk.js.map",
+    "index.html": "/ARTURIRK/Dish-recipes.git/index.html",
+    "static/css/main.7e1ebad1.chunk.css.map": "/ARTURIRK/Dish-recipes.git/static/css/main.7e1ebad1.chunk.css.map",
+    "static/js/2.07ea42a7.chunk.js.LICENSE.txt": "/ARTURIRK/Dish-recipes.git/static/js/2.07ea42a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28d2aeaf.js",
+    "static/js/2.07ea42a7.chunk.js",
+    "static/css/main.7e1ebad1.chunk.css",
+    "static/js/main.91f0fb3e.chunk.js"
+  ]
+}
