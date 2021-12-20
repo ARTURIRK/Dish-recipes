@@ -11,3 +11,61 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+nav{
+  padding: 0 1rem;
+}
+
+.content {
+  min-height: calc(100vh - 70px - 64px);
+  padding: 1.5rem 0;
+}
+.header{
+  width: 100%;
+  padding: 0 7.5%;
+  max-width: 1500px;
+}
+.list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.card{
+  display: flex;
+  flex-direction: column;
+}
+.card-content{
+  flex-grow: 1;
+}
+.recipe > img {
+  max-width: 100%;
+  max-height: 50vh;
+}
+.recipe > iframe {
+  max-width: 100%;
+  height: 350px;
+}
+.recipe > h5 {
+  margin: 2rem 0!important;
+}
+.input-field{
+  display: flex;
+  align-items: center;
+}
+#search-field{
+  width: 30%;
+  margin-right: 20px;
+}
+.page-footer .footer-copyright {
+  padding: 0px 0px 15px 0px ;
+}
+.btn{
+  background-color: brown;
+}
+.btn:hover {
+  background-color: rgb(177, 40, 40);
+}
+@media screen and (max-width: 1300px) {
+  #search-field{
+    width: 70%;
+  }
+}
