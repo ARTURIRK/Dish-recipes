@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ARTURIRK/Dish-recipes/static/css/main.7e1ebad1.chunk.css",
-    "main.js": "/ARTURIRK/Dish-recipes/static/js/main.91f0fb3e.chunk.js",
-    "main.js.map": "/ARTURIRK/Dish-recipes/static/js/main.91f0fb3e.chunk.js.map",
-    "runtime-main.js": "/ARTURIRK/Dish-recipes/static/js/runtime-main.e29e91e9.js",
-    "runtime-main.js.map": "/ARTURIRK/Dish-recipes/static/js/runtime-main.e29e91e9.js.map",
-    "static/js/2.07ea42a7.chunk.js": "/ARTURIRK/Dish-recipes/static/js/2.07ea42a7.chunk.js",
-    "static/js/2.07ea42a7.chunk.js.map": "/ARTURIRK/Dish-recipes/static/js/2.07ea42a7.chunk.js.map",
-    "index.html": "/ARTURIRK/Dish-recipes/index.html",
-    "static/css/main.7e1ebad1.chunk.css.map": "/ARTURIRK/Dish-recipes/static/css/main.7e1ebad1.chunk.css.map",
-    "static/js/2.07ea42a7.chunk.js.LICENSE.txt": "/ARTURIRK/Dish-recipes/static/js/2.07ea42a7.chunk.js.LICENSE.txt"
+    "main.css": "/Dish-recipes/static/css/main.7e1ebad1.chunk.css",
+    "main.js": "/Dish-recipes/static/js/main.91f0fb3e.chunk.js",
+    "main.js.map": "/Dish-recipes/static/js/main.91f0fb3e.chunk.js.map",
+    "runtime-main.js": "/Dish-recipes/static/js/runtime-main.663105b3.js",
+    "runtime-main.js.map": "/Dish-recipes/static/js/runtime-main.663105b3.js.map",
+    "static/js/2.07ea42a7.chunk.js": "/Dish-recipes/static/js/2.07ea42a7.chunk.js",
+    "static/js/2.07ea42a7.chunk.js.map": "/Dish-recipes/static/js/2.07ea42a7.chunk.js.map",
+    "index.html": "/Dish-recipes/index.html",
+    "static/css/main.7e1ebad1.chunk.css.map": "/Dish-recipes/static/css/main.7e1ebad1.chunk.css.map",
+    "static/js/2.07ea42a7.chunk.js.LICENSE.txt": "/Dish-recipes/static/js/2.07ea42a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e29e91e9.js",
+    "static/js/runtime-main.663105b3.js",
     "static/js/2.07ea42a7.chunk.js",
     "static/css/main.7e1ebad1.chunk.css",
     "static/js/main.91f0fb3e.chunk.js"
