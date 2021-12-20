@@ -1,8 +1,12 @@
 # Данный проект - стандартное **SPA** - приложение про кулинарые рецепты.
-Технологии, использующиеся в приложении:
-- React
+Стек, использующиеся в приложении:
+- HTML
+- CSS
+- JS
+- Фреймворк Materialize
+- Библиотека React
 - React-router
 - React Hooks
-- TheMealDB - API, доступное по ссылке [API](https://www.themealdb.com)
+- API - TheMealDB, доступное по ссылке [API](https://www.themealdb.com)
 
 Предварительный просмотр доступен по ссылке [Link](https://arturirk.github.io/Dish-recipes/)
